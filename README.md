@@ -1,5 +1,9 @@
 # 🌟 Meta-Learning Based AutoML System
 
+<p align="center">
+  <img src="outputs/PHOTO-2026-05-28-14-38-04 4.jpg" width="100%" alt="Meta-Learning Based AutoML System Introduction" />
+</p>
+
 A state-of-the-art automatic machine learning tool that leverages **meta-learning** to predict the best-performing classification algorithm for any custom tabular dataset. By analyzing the statistical and structural properties (meta-features) of an uploaded dataset, the system estimates the performance of various machine learning algorithms before training them, dramatically optimizing the model selection process.
 
 ---
