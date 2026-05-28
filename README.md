@@ -52,9 +52,24 @@ flowchart TD
 
     style Meta-Training Phase fill:#f5f8ff,stroke:#4b8bf5,stroke-width:2px;
     style Streamlit Inference Phase fill:#fcf6ff,stroke:#c254ff,stroke-width:2px;
-```
 
 ---
+
+## 🖥️ System Demonstration
+
+Here are screenshots showcasing the application interface, the meta-learning predictions, and the real-time model comparison tables:
+
+<p align="center">
+  <img src="outputs/PHOTO-2026-05-28-14-38-04.jpg" width="45%" alt="Dashboard Upload & Statistics" />
+  <img src="outputs/PHOTO-2026-05-28-14-38-04 2.jpg" width="45%" alt="Meta-Model Predictions" />
+</p>
+<p align="center">
+  <img src="outputs/PHOTO-2026-05-28-14-38-04 3.jpg" width="45%" alt="Cross-Validation Execution" />
+  <img src="outputs/PHOTO-2026-05-28-14-38-04 4.jpg" width="45%" alt="Final Performance Evaluation" />
+</p>
+
+---
+
 
 ## 📁 Repository Structure
 
